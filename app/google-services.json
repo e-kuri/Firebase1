@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "521309511943",
+    "firebase_url": "https://chupacabros-bc1d2.firebaseio.com",
+    "project_id": "chupacabros-bc1d2",
+    "storage_bucket": "chupacabros-bc1d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521309511943:android:2512f1012e314a8e",
+        "android_client_info": {
+          "package_name": "com.example.admin.firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521309511943-gk8fgtjdhmspkh4hmmdu1ag2q1r72jgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSW8R2G6l5-1mEXpuV9DHrXSL7MuAEdbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
